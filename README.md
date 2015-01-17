@@ -4,12 +4,27 @@ Notes for learning MEAN Stack from Scratch
 
 ## Week 1
 
+- Server MVC -> Express
+  - Model - DataSource connecting to the Database
+  - View - Presenting the response (HTML / JSON)
+  - Controller - Middleman to handle works and business logic
+- Client MVC -> AngularJS
+  - Model - DataSource (API / input text field)
+  - View - HTML showing on the browser
+  - Controller - Handle business logic on frontend
+- [RESTful](http://en.wikipedia.org/wiki/Representational_state_transfer)
+- [HTTP Status Code](http://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+- [Turn Websites into Structured API](https://www.kimonolabs.com/)
+
 ### Saral
 
 - HTML / CSS in Bootstrap
 - JavaScript Syntax & Fundamentals
 
 ### Josie
+
+- Express.js examples from YouTube
+- CodeSchool Express.js Track
 
 ## Prework
 
@@ -27,8 +42,12 @@ Notes for learning MEAN Stack from Scratch
 ## Resources
 
 - [CodeSchool JavaScript Path](https://www.codeschool.com/paths/javascript)
+- [CodeSchool Try Git](https://try.github.io/)
 - [Build a RESTful API Using Node and Express 4](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
 
 ## Tools
 
-- Postman
+- [Sublime Text 3](http://www.sublimetext.com/3)
+- [Sublime Package Control](https://packagecontrol.io/installation)
+- [Postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm)
+- [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=zh-TW)
