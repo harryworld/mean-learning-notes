@@ -2,6 +2,25 @@
 
 Notes for learning MEAN Stack from Scratch
 
+## Week 2
+
+- Git & GitHub Best Practices
+- jQuery
+- Express API
+
+### Saral
+
+- jQuery AJAX
+- [Codepen jQuery Exercises](http://codepen.io/clintcparker/details/KAvaG)
+- [jQuery Cheatsheet](http://oscarotero.com/jquery/)
+
+### Josie
+
+- RESTful API
+- JSON
+- [json.com {}](https://www.json.com/)
+- [5-min Quiz](https://gist.github.com/harryworld/91b5b1fb3f047cbd43e8)
+
 ## Week 1
 
 - Server MVC -> Express
@@ -39,11 +58,14 @@ Notes for learning MEAN Stack from Scratch
 
 ### Josie
 
+- [First Express Project](https://github.com/josietam/nodetest1)
+
 ## Resources
 
 - [CodeSchool JavaScript Path](https://www.codeschool.com/paths/javascript)
 - [CodeSchool Try Git](https://try.github.io/)
 - [Build a RESTful API Using Node and Express 4](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
+- [Eloquent JavaScript](http://eloquentjavascript.net/)
 
 ## Tools
 
@@ -51,3 +73,5 @@ Notes for learning MEAN Stack from Scratch
 - [Sublime Package Control](https://packagecontrol.io/installation)
 - [Postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm)
 - [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=zh-TW)
+- [Genghis](http://genghisapp.com/)
+- [Robomongo](http://robomongo.org/)
