@@ -12,6 +12,7 @@ Notes for learning MEAN Stack from Scratch
 
 - jQuery AJAX
 - [Codepen jQuery Exercises](http://codepen.io/clintcparker/details/KAvaG)
+- [jQuery Exercises](http://jqexercise.droppages.com/)
 - [jQuery Cheatsheet](http://oscarotero.com/jquery/)
 
 ### Josie
