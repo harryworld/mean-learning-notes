@@ -2,7 +2,12 @@
 
 Notes for learning MEAN Stack from Scratch
 
-## Week 2
+## Week 3 - Get started with development project
+
+- Debugging
+- Study code of existing project
+
+## Week 2 - Project Management
 
 - Git & GitHub Best Practices
 - jQuery
@@ -22,7 +27,7 @@ Notes for learning MEAN Stack from Scratch
 - [json.com {}](https://www.json.com/)
 - [5-min Quiz](https://gist.github.com/harryworld/91b5b1fb3f047cbd43e8)
 
-## Week 1
+## Week 1 - Introduction to MVC Framework
 
 - Server MVC -> Express
   - Model - DataSource connecting to the Database
