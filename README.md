@@ -2,6 +2,12 @@
 
 Notes for learning MEAN Stack from Scratch
 
+## Week 4 - Using API
+
+- jQuery AJAX
+- Introduction to AngularJS
+- Express API
+
 ## Week 3 - Get started with development project
 
 - Debugging
