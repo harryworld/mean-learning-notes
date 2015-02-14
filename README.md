@@ -7,6 +7,7 @@ Notes for learning MEAN Stack from Scratch
 - AngularJS
 - Meteor
 - ReactJS
+- [Express with AngularJS Demo](https://github.com/harryworld/mean-express-angularjs-demo)
 
 ## Week 4 - Using API
 
