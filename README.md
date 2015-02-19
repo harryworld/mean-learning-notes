@@ -2,6 +2,15 @@
 
 Notes for learning MEAN Stack from Scratch
 
+## Week 6 - Deploy to Heroku
+
+- Introduction to Deployment
+- Heroku
+- Amazon Web Services
+- Domain Name Service
+- [Deploy MEAN Stack](http://www.tilcode.com/deploying-a-mean-stack-app-to-heroku/)
+- [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
+
 ## Week 5 - Reactive Web
 
 - AngularJS
