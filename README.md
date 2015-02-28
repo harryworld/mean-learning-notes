@@ -2,6 +2,11 @@
 
 Notes for learning MEAN Stack from Scratch
 
+## Week 7 - Work as a Team
+
+- [GitHub Pull Request](https://help.github.com/articles/using-pull-requests/)
+- [GitFlow](http://nvie.com/posts/a-successful-git-branching-model/)
+
 ## Week 6 - Deploy to Heroku
 
 - Introduction to Deployment
