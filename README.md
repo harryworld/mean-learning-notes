@@ -2,6 +2,13 @@
 
 Notes for learning MEAN Stack from Scratch
 
+## Week 8 - Deploy to EC2
+
+- Prepare Ubuntu 14.04 EC2 instance
+- Install Nginx, MongoDB, Node.js, NPM
+- Git clone the project from BitBucket
+- Run the application
+
 ## Week 7 - Work as a Team
 
 - [GitHub Pull Request](https://help.github.com/articles/using-pull-requests/)
