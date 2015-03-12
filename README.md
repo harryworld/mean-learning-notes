@@ -2,6 +2,11 @@
 
 Notes for learning MEAN Stack from Scratch
 
+## Week 9 - External tools
+
+- Sending email using Mailgun [Sample](https://github.com/harryworld/mean-email)
+- Add data visulization using Highcharts
+
 ## Week 8 - Deploy to EC2
 
 - Prepare Ubuntu 14.04 EC2 instance
