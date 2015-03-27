@@ -2,10 +2,14 @@
 
 Notes for learning MEAN Stack from Scratch
 
+## Week 10 - External tools (Cont'd)
+
+- Add data visulization using Highcharts
+- http://www.highcharts.com/demo
+
 ## Week 9 - External tools
 
 - Sending email using Mailgun [Sample](https://github.com/harryworld/mean-email)
-- Add data visulization using Highcharts
 
 ## Week 8 - Deploy to EC2
 
