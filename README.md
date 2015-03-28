@@ -5,7 +5,10 @@ Notes for learning MEAN Stack from Scratch
 ## Week 10 - External tools (Cont'd)
 
 - Add data visulization using Highcharts
-- http://www.highcharts.com/demo
+- [HighCharts](http://www.highcharts.com/demo)
+- [amCharts](http://www.amcharts.com/)
+- [Morris.js](http://morrisjs.github.io/morris.js/)
+- [The 15 Best JavaScript Charting Libraries](http://www.sitepoint.com/15-best-javascript-charting-libraries/)
 
 ## Week 9 - External tools
 
