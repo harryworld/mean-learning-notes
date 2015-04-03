@@ -2,6 +2,18 @@
 
 Notes for learning MEAN Stack from Scratch
 
+## Week 12 - Long-term architecture
+
+- Separation of Concerns
+
+## Week 11 - Testing
+
+- Introduction to Behaviour-driven Development
+- Compare with Test-driven Development
+- Jasmine
+- Mocha
+- [CodeShip](https://codeship.com/)
+
 ## Week 10 - External tools (Cont'd)
 
 - Add data visulization using Highcharts
