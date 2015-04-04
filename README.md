@@ -8,11 +8,18 @@ Notes for learning MEAN Stack from Scratch
 
 ## Week 11 - Testing
 
-- Introduction to Behaviour-driven Development
+- [Introduction to Behaviour-driven Development](http://en.wikipedia.org/wiki/Behavior-driven_development)
 - Compare with Test-driven Development
-- Jasmine
-- Mocha
-- [CodeShip](https://codeship.com/)
+- [Job Story vs User Story](http://alanklement.blogspot.hk/2013/09/replacing-user-story-with-job-story.html)
+- [Red, Green, Refactor](http://agileinaflash.blogspot.hk/2009/02/red-green-refactor.html)
+- [Mocha - light weight testing framework](https://github.com/mochajs/mocha)
+- [Chai - Assertion ecosystem](http://chaijs.com/)
+- References
+    + [TDD and BDD With The MEAN Stack: Introduction](http://attackofzach.com/tdd-bdd-mean-part1/)
+    + [Protractor e2e tests for Angular.js](https://skillsmatter.com/skillscasts/5634-unit-testing-throughout-the-mean-stack)
+    + [Compare JavaScript unit testing tools](http://www.slant.co/topics/1489/compare/~mocha_vs_casperjs_vs_jasmine)
+- [Learn Mocha Example](https://github.com/nelsonic/learn-mocha)
+- [CodeShip - Continuous Deployment](https://codeship.com/)
 
 ## Week 10 - External tools (Cont'd)
 
