@@ -146,3 +146,10 @@ Notes for learning MEAN Stack from Scratch
 - [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=zh-TW)
 - [Genghis](http://genghisapp.com/)
 - [Robomongo](http://robomongo.org/)
+
+## Videos
+
+- [Deploy MEAN stack to Heroku](http://youtu.be/DZ1JVDvuL0s)
+- [Use MongoDB on Heroku](http://youtu.be/UY4vwIxn80E)
+- [Introduction to Highcharts](http://youtu.be/TJTUnDRiEmA)
+- [Node.js with Mocha & Chai](https://youtu.be/SaPn9jH6L7E)
