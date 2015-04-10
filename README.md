@@ -5,6 +5,8 @@ Notes for learning MEAN Stack from Scratch
 ## Week 12 - Long-term architecture
 
 - Separation of Concerns
+- Deployment in Action
+- Overall Review
 
 ## Week 11 - Testing
 
