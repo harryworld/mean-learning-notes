@@ -2,11 +2,17 @@
 
 Notes for learning MEAN Stack from Scratch
 
+## Extra Lesson
+
+- Data Migration
+- Deployment in Action
+- Overall Review
+
 ## Week 12 - Long-term architecture
 
 - Separation of Concerns
-- Deployment in Action
-- Overall Review
+- MongoDB Backup and Restore
+- Entity Relationship Diagram
 
 ## Week 11 - Testing
 
